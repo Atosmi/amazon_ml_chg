@@ -10,4 +10,6 @@ The repo contains two Jupyter notebooks:
 
 - `train.ipynb`: This notebook uses BERT model, to score the clean data and applies ML models to generate a prediction!
 
+This attempt was able to generate a success rate of ~46% for the class we trained for. 
+
 Thank you for reading. If you have any suggestions for the model, do raise an issue. I'd love to hear from you.
