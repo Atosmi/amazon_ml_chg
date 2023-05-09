@@ -1,4 +1,4 @@
-# Amazon ML Challenge 2023
+# Dimension Genie
 
 This repository contains my team's attempt at creating an ML model for the Amazon ML Challenge 2023. The challenge was to create an ML model that could read a text description of an Amazon product, along with its product ID, and predict its length. The dataset for this challenge contained **2.2 million lines of data**!
 
