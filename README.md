@@ -1,6 +1,6 @@
 # Dimension Genie
 
-This repository contains my team's attempt at creating an ML model for the Amazon ML Challenge 2023. The challenge was to create an ML model that could read a text description of an Amazon product, along with its product ID, and predict its length. The dataset for this challenge contained **2.2 million lines of data**!
+The challenge was to create an ML model that could read a text description of an Amazon product, along with its product ID, and predict its length. The dataset for this challenge contained **2.2 million lines of data**!
 
 ## Jupyter Notebooks
 
@@ -10,6 +10,6 @@ The repo contains two Jupyter notebooks:
 
 - `train.ipynb`: This notebook uses BERT model, to score the clean data and applies ML models to generate a prediction!
 
-This attempt was able to generate a success rate of ~46% for the class we trained for. 
+This attempt was able to generate a success rate of ~46% for the class it was trained for. 
 
 Thank you for reading. If you have any suggestions for the model, do raise an issue. I'd love to hear from you.
